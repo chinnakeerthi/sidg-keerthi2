@@ -1,0 +1,15 @@
+<html>   
+<head>   
+<title> Multiple new lines example </title>   
+</head>   
+<script>  
+       var myString ='Javatpoint is a website of technologies, ' +  
+         'which provides tutorials of different technologies and tools. ' +  
+         'Here you will get tutorials in detail' +  
+         'like theory as well as practical implementation.' +  
+         '<br> We will try to provide you the best knowledge from our side.' +  
+         'Student, teachers, and industry professionals can learn from here.';  
+                 
+       document.write(myString);  
+</script>  
+</html>  
